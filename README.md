@@ -13,3 +13,4 @@ The purpose of this project is to identify the machine learning algorithm that i
 ## Related work or Background
   Fresh-Rotten-Fruits-Predictor .They create a TensorFlow model to predict the fresh and rotten fruits. By doing so, we hope we can easily separate fresh and
   rotten fruits from fruit images. Training Data and Testing Data that were used are sourced from Kaggle :https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification
+  The dataset contains 13599 images of apple, banana, and orange divided into fresh and rotten.
